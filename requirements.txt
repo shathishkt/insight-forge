@@ -4,6 +4,15 @@ numpy
 plotly
 openpyxl
 python-dotenv
+
 langchain
 langchain-openai
 langchain-community
+
+chromadb
+pypdf
+docx2txt
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers

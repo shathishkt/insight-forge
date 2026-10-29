@@ -1,11 +1,7 @@
 import os
 
 from pypdf import PdfReader
-
-try:
-    from docx import Document
-except ImportError:
-    Document = None
+from docx import Document
 
 
 def load_pdf(file_path):
